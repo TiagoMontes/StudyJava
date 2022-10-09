@@ -17,10 +17,10 @@ public class SomaMedia {
         // Saída para tela
         System.out.print("Nome do algoritmo: " + nomeAlg);
         System.out.print("Resultado da Soma: ");
-        System.out.print(resultadoSoma);
+        System.out.println(resultadoSoma);
         System.out.print("Resultado da Média: ");
-        System.out.print(resultadoMedia);
+        System.out.println(resultadoMedia);
         System.out.print("Resultado da Média usando a variável resultadoSoma: ");
-        System.out.print(resultadoMedia2);
+        System.out.println(resultadoMedia2);
     }
 }
